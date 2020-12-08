@@ -19,7 +19,6 @@
 - Will have a Project Section that showcases projects and describes them.
 - Will have your resume available on site. 
 - Keep it clean and simple.
-- Make some time (2 hours minimum) to work through the lessons and topics in the [DevOps Capstone](https://my.generalassemb.ly/activities/1193) module on myGA.
 
 ### Examples
 
