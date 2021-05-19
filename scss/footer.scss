@@ -1,0 +1,17 @@
+.footer {
+   width: 100%;
+
+   bottom: 0;
+   display: flex;
+   position: fixed;
+   text-align: center;
+   font-size: 1.1em;
+   background: rgba(55, 55, 45, 1);
+   width: 100%;
+   box-shadow: 0 0 50px -5px black, inset 0 0 30px 1px rgb(254, 254, 254);
+   text-decoration: none;
+   padding: 0.5em;
+}
+a {
+   color: rgb(255, 255, 255);
+}
